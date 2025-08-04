@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hGD8f7WFJMQ8llPu_YGzmjXeR82ZkCrG/view?usp=drivesdk](https://drive.google.com/file/d/1hGD8f7WFJMQ8llPu_YGzmjXeR82ZkCrG/view?usp=drivesdk)
 
-- ⚡ Fun fact ** "I treat messy data like a crime scene—cleaning it up and finding the culprit behind the trends!"**
+- ⚡ Fun fact ** I treat messy data like a crime scene—cleaning it up and finding the culprit behind the trends!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
