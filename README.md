@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Varshini Rachana</h1>
 <h3 align="center">Turning Raw Data into Actionable Insights with Hands-on Experience in SQL, ETL, Power BI, Zoho Analytics & KPI Dashboards</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/varshini-r-05064b238/](https://www.linkedin.com/in/varshini-r-05064b238/)
 
-- 💬 Ask me about **Anyting**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **varshini.rachana1707@gmail.com**
 
